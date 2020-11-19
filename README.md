@@ -14,4 +14,4 @@ Step 3:
 Step 4:
     * Access to your application by localhost:port
 
-<img width=“964” alt=“Kubernetes” src=“https://github.com/Nhukangasniemi/kubernetes/blob/main/images/minikube.png?raw=true” />
+<img width=“964” alt=“Kubernetes” src=“https://github.com/Nhukangasniemi/kubernetes/blob/main/images/minikube.png” />
