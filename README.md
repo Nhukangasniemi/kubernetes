@@ -25,3 +25,11 @@ Step 5:
 
     * Build client image again with a version with it. Run imperative command to update image.
     *kubectl set image TypeOfObject/ObjectName ContainerName=NewImage 
+
+
+-------
+
+### Create an Encoded Secret in Kubernetes (ex: database password)
+One secret can contains many key value pair
+
+kubectl create secret generic <secret_name> --from-literal <key_value_pair>
