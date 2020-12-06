@@ -13,7 +13,7 @@ spec:
         component: server
     spec: 
       containers:
-      - name: server
+        - name: server
         image: stephengrider/multi-server
         ports:
           - containerPort: 5000
