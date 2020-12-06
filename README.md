@@ -33,3 +33,8 @@ Step 5:
 One secret can contains many key value pair
 
 kubectl create secret generic <secret_name> --from-literal <key_value_pair>
+
+----
+### Setup NGINX Ingress Controller locally 
+
+https://kubernetes.github.io/ingress-nginx/deploy/#docker-for-mac (Used for both Mac and Windows)
